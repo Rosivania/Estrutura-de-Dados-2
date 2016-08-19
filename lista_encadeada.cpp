@@ -8,7 +8,7 @@ struct No{ //Lista declaration
 
 struct No *Lista;
 
-// comentar a função: O que ela recebe? O que ela faz? O que ela retorna?
+// função para inserir o preço em uma lista alocada dinamicamente.
 int inserir(int preco) {
 	struct No *aux = (struct No *) malloc (sizeof (struct No));
 	aux->valor = preco;
