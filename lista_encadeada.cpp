@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h> 
-//#include "myownclass.h"
 
 struct No{ //Lista declaration
 	int valor;
