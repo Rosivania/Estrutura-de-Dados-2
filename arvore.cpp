@@ -26,8 +26,7 @@ void inserir(){
 void presentation(){
 	cout << "\n Univesidade Federal do Tocantins\n Campus Universitario de Palmas\n Coordenacao de Ciencia da Computacao\n Estrutura de Dados II\n";
 	cout << " Prof. MSc. Thiago Magalhaes de Brito Rodrigues"<< endl;
-	cout << " Rosivania Rodrigues Batista"<< endl;
-	cout << " rosivania.r1@gmail.com\n"<< endl;
+	cout << " Rosivania Batista"<< endl;
 };
 
 int main(int argc, char const *argv[]){
